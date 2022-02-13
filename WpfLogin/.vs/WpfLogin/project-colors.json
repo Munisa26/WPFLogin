@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "379bcab6-9716-4c26-b7a1-946384ebe8bf": {
+      "ProjectGuid": "379bcab6-9716-4c26-b7a1-946384ebe8bf",
+      "DisplayName": "WpfLogin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
